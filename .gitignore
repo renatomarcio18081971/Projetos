@@ -2,9 +2,20 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
+/Angular
+/vendor/clink-completions
+/vendor/conemu-maximus5
+/vendor/git-for-windows
+/vendor/lib
+/vendor/psmodules
+/icons
+/vendor
 /bin
 /config
 /Git
-/icons
-/vendor
-/VisualStudio
+/VisualStudio/AplicacaoMVC
+/Cmder.exe
+/LICENSE
+/Version 1.3.14.982
+/VisualStudio/Api/Vendas/Vendas/bin/Debug/netcoreapp3.1
+/VisualStudio/Api/Vendas/Vendas/obj
